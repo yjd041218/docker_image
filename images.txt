@@ -1,5 +1,5 @@
 lsky-pro
-mysql
+mysql:8.2.0
 halohub/halo
 xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
