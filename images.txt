@@ -1,4 +1,4 @@
-openresty:1.21.4-3
+lsky-pro
 mysql:8.2.0
 halohub/halo
 xhofe/alist:latest
