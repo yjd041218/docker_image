@@ -1,4 +1,5 @@
-lsky-pro
+bitnami/openresty:1.21.4-3
+halcyonazure/lsky-pro-docker
 mysql:8.2.0
 halohub/halo
 xhofe/alist:latest
