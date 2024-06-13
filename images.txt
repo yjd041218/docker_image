@@ -1,6 +1,5 @@
 openresty:1.21.4-3
 mysql:8.2.0
-mysql
 halohub/halo
 xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
