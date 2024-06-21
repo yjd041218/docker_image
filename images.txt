@@ -1,3 +1,4 @@
+haroldli/xiaoya-tvbox
 bitnami/openresty:1.21.4-3
 halcyonazure/lsky-pro-docker
 mysql:8.2.0
