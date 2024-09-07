@@ -6,3 +6,7 @@ halohub/halo
 xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 esphome/esphome
+redis/redis
+rabbitmq/rabbitmq
+comrider/nginx_file
+minio/minio
